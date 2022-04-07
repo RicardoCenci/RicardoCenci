@@ -4,6 +4,7 @@
  ### A FullStack web developer and Computer Science student
  <p align='left'>Made in Brazil <img src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/322/flag-brazil_1f1e7-1f1f7.png' width="20"/>
  </p>
+ 
 - 🔭 I’m currently working on a web based rich text editor
 - 🌱 I’m currently learning canvas 2D rendering
 - 📫 How to reach me: [linkedin/ricardocencifabris](https://www.linkedin.com/in/ricardocencifabris/) or [ricardocencifabris@gmail.com](mailto://ricardocencifabris@gmail.com)
