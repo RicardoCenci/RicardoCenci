@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ricardocenci&label=Profile%20views&color=0e75b6&style=flat" alt="ricardocenci" /> </p>  
 
  ### A FullStack web developer and Computer Science student
- <p align='left'>Made in Brazil <img src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/322/flag-brazil_1f1e7-1f1f7.png' width="20"/>
+ <p align='left'>Made in Brazil <img src='https://raw.githubusercontent.com/madebybowtie/FlagKit/master/Assets/PNG/BR%402x.png' width="20"/>
  </p>
  
  📫 How to reach me: [linkedin/ricardocencifabris](https://www.linkedin.com/in/ricardocencifabris/) or [ricardocencifabris@gmail.com](mailto://ricardocencifabris@gmail.com)
