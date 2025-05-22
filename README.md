@@ -8,6 +8,8 @@
  </p>
  
  📫 How to reach me: [linkedin/ricardocencifabris](https://www.linkedin.com/in/ricardocencifabris/) or [ricardocencifabris@gmail.com](mailto://ricardocencifabris@gmail.com)
+ 🧑‍💼 Check my professional profiles too:
+ - [@RicardoCenciTiny](https://github.com/RicardoCenciTiny)
   
 ### Languages and Tools:
 <p align="left">
